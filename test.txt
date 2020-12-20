@@ -1,2 +1,3 @@
 Testing GitHut. Modified. 
 Changed after commit.
+Checking gitignore.
