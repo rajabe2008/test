@@ -1,1 +1,2 @@
-Testing GitHut. Modified
+Testing GitHut. Modified. 
+Changed after commit.
